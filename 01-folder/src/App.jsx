@@ -357,7 +357,7 @@ function App() {
         <p>
           © 2026 Vedant Web. All rights reserved.
         </p>
-      </footer>
+      </footer>        
 
     </div>
   );
